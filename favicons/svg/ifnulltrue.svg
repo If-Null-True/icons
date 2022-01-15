@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1110"
+   height="1436"
+   viewBox="0 0 293.68749 379.94168"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (1:1.1+202109281946+c3084ef5ed)"
+   sodipodi:docname="ifnulltrue.svg"
+   inkscape:export-filename="/home/jam/Documents/web dev graphics/favicons/png/ifnulltrue.png"
+   inkscape:export-xdpi="136.91365"
+   inkscape:export-ydpi="136.91365"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="2048mm"
+     units="px"
+     height="2048px"
+     inkscape:zoom="0.37593996"
+     inkscape:cx="938.97972"
+     inkscape:cy="1089.2697"
+     inkscape:window-width="1852"
+     inkscape:window-height="1016"
+     inkscape:window-x="68"
+     inkscape:window-y="114"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:15.8754;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 7.9376998,111.12499 c 0,99.81403 54.4975802,100.54143 54.4975802,100.54143 h 231.25221"
+       id="path857" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:0;stroke:#ffffff;stroke-width:23.8125;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1013"
+       cx="146.84375"
+       cy="85.989571"
+       rx="74.083313"
+       ry="74.083321" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:15.8823;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 146.8474,216.97562 V 353.49696 H 293.68747"
+       id="path1290" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:16.0553;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1547"
+       cx="58.239235"
+       cy="353.48334"
+       rx="18.430708"
+       ry="18.430689" />
+  </g>
+</svg>
