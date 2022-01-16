@@ -6,6 +6,13 @@ https://github.com/kElnaDev/icons
 This repository is intended as an open collection of images related to OggyP Suite websites and used by If Null True Studios.
 
 
+## Usage
+* Do not stretch or distort the logos
+* Do not alter the colour of the logos
+* When using the logos and / or their associated brands, please be respectful
+* Credit If Null True Studios (e.g. The OggyP Social logo was created by If Null True Studios)
+
+
 ## Credits
 * All images (unless mentioned below) were created by kElnaDev
   * `social-v1.png`, `snake-main.png` and `snake-main-greyscale.png` were created by [OggyP](https://github.com/OggyP)
