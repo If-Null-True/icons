@@ -26,7 +26,7 @@ This repository is intended as an open collection of images related to OggyP Sui
 
 ## Copyright
 * All `xcf` files, `ico` files and `svg` files are (c) kElnaDev 2021-2022
-* All `png` files, except `madrcade.png` and `ints-v1.png` are (c) If Null True Studios 2021-2022
+* All `png` files, except `madrcade.png`, `ints-v1.png` and `msc.png` are (c) If Null True Studios 2021-2022
 
 
 ## See Also
