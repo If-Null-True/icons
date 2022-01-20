@@ -19,6 +19,7 @@ This repository is intended as an open collection of images related to OggyP Sui
   * `ints-v1.png` was created by Ben Pratley
   * `madrcade.png` was created by the MADRcade team
   * `snake-s.png` and `oscs.png` were created by [dungcatcher](https://github.com/dungcatcher)
+  * `msc.png` was created by [NBSC Manly Selective Campus](https://nbscmanlys-h.schools.nsw.gov.au)
 * The `xcf` image format was created by the GIMP team
 
 

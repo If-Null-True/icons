@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1450"
-   height="1830"
-   viewBox="0 0 383.64584 484.1875"
+   width="2300"
+   height="2300"
+   viewBox="0 0 608.54167 608.54167"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (1:1.1+202109281946+c3084ef5ed)"
-   sodipodi:docname="oggyp.svg"
+   sodipodi:docname="oggyp-bg.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -32,7 +32,7 @@
      width="2048px"
      inkscape:zoom="0.35368524"
      inkscape:cx="1020.6816"
-     inkscape:cy="947.16986"
+     inkscape:cy="1399.5495"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="1920"
@@ -44,16 +44,28 @@
      id="defs2" />
   <g
      inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="bg"
+     sodipodi:insensitive="true">
+    <circle
+       style="fill:#2ecc77;fill-opacity:1;stroke:#2ecc77;stroke-width:24.055;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path853"
+       cx="304.27081"
+       cy="304.27084"
+       r="292.24359" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="torso 1">
     <path
        style="fill:none;stroke:#ffffff;stroke-width:26.2628;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 156.78508,243.52232 C 116.59907,378.54257 122.68493,481.92174 122.68493,481.92174"
+       d="M 254.68093,291.14705 C 214.49492,426.1673 220.58078,529.54647 220.58078,529.54647"
        id="path3646"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#ffffff;stroke-width:25.909;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 266.69318,243.52232 C 273.73285,372.461 293.1771,481.92174 293.1771,481.92174"
+       d="m 364.58903,291.14705 c 7.03967,128.93868 26.48392,238.39942 26.48392,238.39942"
        id="path3646-5"
        sodipodi:nodetypes="cc" />
   </g>
@@ -63,12 +75,12 @@
      inkscape:label="arms">
     <path
        style="fill:none;stroke:#ffffff;stroke-width:23.7175;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 132.55234,304.44652 -75.860323,-27.1267 c 0,0 -38.378359,-13.12927 -40.668734,-62.91927 l -4.177069,-90.80454"
+       d="m 230.44819,352.07125 -75.86033,-27.1267 c 0,0 -38.37836,-13.12927 -40.66873,-62.91927 l -4.17707,-90.80454"
        id="path5758"
        sodipodi:nodetypes="ccsc" />
     <path
        style="fill:none;stroke:#ffffff;stroke-width:22.4793;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 279.84248,313.14231 c 70.93093,17.00428 92.69355,158.93295 92.69355,158.93295"
+       d="m 377.73833,360.76704 c 70.93093,17.00428 92.69355,158.93295 92.69355,158.93295"
        id="path5964"
        sodipodi:nodetypes="cc" />
   </g>
@@ -79,8 +91,8 @@
     <ellipse
        style="fill:none;stroke:#ffffff;stroke-width:36.7347"
        id="path930"
-       cx="207.76653"
-       cy="137.56705"
+       cx="305.66223"
+       cy="185.19206"
        rx="119.17744"
        ry="119.19971" />
   </g>
