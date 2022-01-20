@@ -10,7 +10,8 @@ This repository is intended as an open collection of images related to OggyP Sui
 * Do not stretch or distort the logos
 * Do not alter the colour of the logos
 * When using the logos and / or their associated brands, please be respectful
-* Credit If Null True Studios (e.g. The OggyP Social logo was created by If Null True Studios)
+* Credit If Null True Studios (e.g. The OggyP Social logo was created by If Null True Studios) unless given explicit 
+  permission from [kElnaDev](https://github.com/kElnaDev) to exclude it
 
 
 ## Credits
