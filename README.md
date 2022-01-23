@@ -1,5 +1,5 @@
 # OggyP Suite favicons
-https://github.com/kElnaDev/icons
+https://github.com/kElnaDev/oggyp-suite-icons
 
 
 ## Overview
@@ -30,6 +30,6 @@ This repository is intended as an open collection of images related to OggyP Sui
 
 
 ## See Also
-* OggyP Suite GitHub repository: https://github.com/kElnaDev/oggy-suite
+* OggyP Suite GitHub repository: https://github.com/kElnaDev/oggyp-suite
 * OggyP's GitHub: https://github.com/OggyP
 * dungcatcher's GitHub: https://github.com/dungcatcher
