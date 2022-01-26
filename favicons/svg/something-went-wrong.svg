@@ -2,14 +2,14 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1450"
+   width="1550"
    height="1830"
-   viewBox="0 0 383.64584 484.1875"
+   viewBox="0 0 410.10417 484.1875"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (1:1.1+202109281946+c3084ef5ed)"
-   sodipodi:docname="oggyp.svg"
-   inkscape:export-filename="/home/jam/Documents/web dev graphics/favicons/svg/oggyp.png"
+   sodipodi:docname="something-went-wrong.svg"
+   inkscape:export-filename="/home/jam/Documents/web dev graphics/favicons/png/something-went-wrong.png"
    inkscape:export-xdpi="107.43607"
    inkscape:export-ydpi="107.43607"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -35,11 +35,11 @@
      width="2048px"
      inkscape:zoom="0.35368524"
      inkscape:cx="1020.6816"
-     inkscape:cy="945.75618"
-     inkscape:window-width="1852"
-     inkscape:window-height="1016"
-     inkscape:window-x="68"
-     inkscape:window-y="102"
+     inkscape:cy="947.16986"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2"
      showguides="false" />
@@ -50,13 +50,13 @@
      id="layer1"
      inkscape:label="torso 1">
     <path
-       style="fill:none;stroke:#333333;stroke-width:26.2628;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 156.78508,243.52232 C 116.59907,378.54257 122.68493,481.92174 122.68493,481.92174"
+       style="fill:none;stroke:#333333;stroke-width:26.2611;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 149.57612,243.52195 C 109.39545,378.54268 115.4805,481.92223 115.4805,481.92223"
        id="path3646"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#333333;stroke-width:25.909;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 266.69318,243.52232 C 273.73285,372.461 293.1771,481.92174 293.1771,481.92174"
+       style="fill:none;stroke:#333333;stroke-width:25.9073;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 259.46962,243.52195 c 7.03874,128.93914 26.48041,238.40028 26.48041,238.40028"
        id="path3646-5"
        sodipodi:nodetypes="cc" />
   </g>
@@ -65,13 +65,13 @@
      id="layer2"
      inkscape:label="arms">
     <path
-       style="fill:none;stroke:#333333;stroke-width:23.7175;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 132.55234,304.44652 -75.860323,-27.1267 c 0,0 -38.378359,-13.12927 -40.668734,-62.91927 l -4.177069,-90.80454"
+       style="fill:none;stroke:#333333;stroke-width:23.716;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 125.3466,304.44636 54.92923,280.10942 c 0,0 -61.5263868,-28.27366 -37.634722,-72.01539 l 42.722478,-78.21789"
        id="path5758"
        sodipodi:nodetypes="ccsc" />
     <path
-       style="fill:none;stroke:#333333;stroke-width:22.4793;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 279.84248,313.14231 c 70.93093,17.00428 92.69355,158.93295 92.69355,158.93295"
+       style="fill:none;stroke:#333333;stroke-width:22.4778;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 272.61717,313.14219 C 510.47253,283.49308 339.89351,140.16816 339.89351,140.16816"
        id="path5964"
        sodipodi:nodetypes="cc" />
   </g>
@@ -80,12 +80,12 @@
      id="layer4"
      inkscape:label="head">
     <ellipse
-       style="fill:none;stroke:#333333;stroke-width:36.7347;stroke-opacity:1"
+       style="fill:none;stroke:#333333;stroke-width:36.7323;stroke-opacity:1"
        id="path930"
-       cx="207.76653"
-       cy="137.56705"
-       rx="119.17744"
-       ry="119.19971" />
+       cx="200.5508"
+       cy="137.5663"
+       rx="119.16161"
+       ry="119.20013" />
   </g>
   <metadata
      id="metadata824">
