@@ -1,16 +1,16 @@
-# OggyP Suite favicons
-https://github.com/kElnaDev/oggyp-suite-icons
+# If Null True Icons
+https://github.com/If-Null-True/icons
 
 
 ## Overview
-This repository is intended as an open collection of images related to OggyP Suite websites and used by If Null True Studios.
+This repository is intended as an open collection of images related to websites created by If Null True Studios.
 
 
 ## Usage
 * Do not stretch or distort the logos
 * Do not alter the colour of the logos
 * When using the logos and / or their associated brands, please be respectful
-* Credit If Null True Studios (e.g. The OggyP Social logo was created by If Null True Studios) unless given explicit 
+* Credit If Null True Studios (e.g. "The OggyP Social logo was created by If Null True Studios") unless given explicit 
   permission from [kElnaDev](https://github.com/kElnaDev) to exclude it
 
 
@@ -30,6 +30,6 @@ This repository is intended as an open collection of images related to OggyP Sui
 
 
 ## See Also
-* OggyP Suite GitHub repository: https://github.com/kElnaDev/oggyp-suite
+* kElnaDev's GitHub: https://github.com/kElnaDev
 * OggyP's GitHub: https://github.com/OggyP
 * dungcatcher's GitHub: https://github.com/dungcatcher
